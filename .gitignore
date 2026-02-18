@@ -1,0 +1,10 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Env files
+.env
+
+# Notebook checkpoints
+.ipynb_checkpoints/
